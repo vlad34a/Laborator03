@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

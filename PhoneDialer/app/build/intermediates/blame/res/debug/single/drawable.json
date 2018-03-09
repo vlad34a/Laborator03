@@ -8,16 +8,16 @@
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/notification_bg_low.xml"
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -44,6 +44,10 @@
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/call.png",
+        "source": "/home/vlad/eim/Laborator03/PhoneDialer/app/src/main/res/drawable/call.png"
+    },
+    {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_switch_thumb_material.xml"
     },
@@ -54,6 +58,10 @@
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/backspace.png",
+        "source": "/home/vlad/eim/Laborator03/PhoneDialer/app/src/main/res/drawable/backspace.png"
     },
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -132,6 +140,10 @@
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/hangup.png",
+        "source": "/home/vlad/eim/Laborator03/PhoneDialer/app/src/main/res/drawable/hangup.png"
+    },
+    {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
@@ -142,6 +154,10 @@
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/home/vlad/.android/build-cache/c4a0b11522eef8ae259b41e93d7dbae7b5973f24/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/vlad/eim/Laborator03/PhoneDialer/app/src/main/res/drawable/ic_launcher.png"
     },
     {
         "merged": "/home/vlad/eim/Laborator03/PhoneDialer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
